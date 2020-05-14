@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\bin\Debug\ParImpar.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\bin\Debug\ParImpar.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\bin\Debug\ParImpar.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\obj\Debug\ParImpar.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\obj\Debug\ParImpar.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\ParImpar\obj\Debug\ParImpar.pdb
