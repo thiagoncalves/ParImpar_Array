@@ -22,14 +22,14 @@ namespace ParImpar
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("Digite o " + (i + 1) + "º numero:");
+                Console.Write("Digite o " + (i + 1) + "º numero: ");
                 n1 = Convert.ToInt32(Console.ReadLine());
                 listanumeros[i] = n1;
             }
 
             for (int i = 0; i < 10; i++)
             {
-                if (listanumeros[i] % 2 == 0)
+                if (ImparPar(listanumeros[i]))
                     pares ++;
                 else
                     impares ++;
@@ -41,6 +41,12 @@ namespace ParImpar
 
             Console.ReadLine();
 
+        }
+
+        public static bool ImparPar (int numero)
+        {
+            bool resultado = numero % 2 == 0;
+            return resultado;
         }
     }
 }
